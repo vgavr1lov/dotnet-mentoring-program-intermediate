@@ -1,8 +1,30 @@
 ﻿@{
     ViewData["Title"] = "Help";
+    var requestInfo = ViewBag.RequestInfo;
 }
 
 <h1>Support info</h1>
-<p>
-    @ViewBag.RequestInfo
-</p>
+<div id="requestInfoContainer">
+    <p>
+        We are registering your request, please wait.
+    </p>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            var registeredRequestInfo = '@Html.Encode(requestInfo)';
+            $.ajax({
+                url: '/Assistance/GetSupportInfo',
+                type: 'GET',
+                data: { requestInfo: registeredRequestInfo },
+                success: function (result) {
+                    $('#requestInfoContainer').html(result);
+                },
+                error: function () {
+                    $('#requestInfoContainer').html('<p>Failed to get your request info. Please try again.</p>');
+                }
+            });
+        });
+    </script>
+}
