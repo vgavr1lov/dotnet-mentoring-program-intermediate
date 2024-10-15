@@ -1,3 +1,5 @@
+Multithreading in .NET
+
 Download and unzip 01.Multithreading.v.1.2.zip archive. Restore packages via “dotnet restore” if needed. Implement the tasks 1-6 using templates from the Multithreading.sln.
 Note: If “dotnet restore” does not work, please make sure the environment variable contains a link to dotnet
 Graphical user interface, text, application
@@ -68,3 +70,36 @@ Score board:
 0-59% – 5 of 6 required tasks completed and implementation meets all requirements.
 60-79% – All 6 required tasks completed, all tests are GREEN and implementation meets all requirements.
 80-100% – No major remarks related to clean code principles (SOLID, KISS, DRY, etc.) / Optional task is covered.
+
+
+
+Async Programming
+
+Download and unzip AsyncAwait.Tasks.zip archive. Restore packages via “dotnet restore” if needed. Implement the tasks 1 and 2 using templates from the AsyncAwait.Tasks.sln.  
+Note: If “dotnet restore” does not work, please make sure the environment variable contains a link to dotnet 
+
+Task 1. Asynchronous calculation and cancellation tokens (AsyncAwait.Task1.CancellationTokens.csproj): 
+Task:
+Here is a code for application designed to calculate the sum of integer numbers from 0 to N. Please rework the application code to satisfy the following conditions:
+The calculation should be asynchronous.
+N should be set from Console as user input. User should be able to change the upper limit N in the middle of the calculation process. This change should abort current calculation and start a new one with the new N. 
+There should be neither any exceptions nor application falls if the process of calculation restarts. 
+
+Task 2. ASP MVC challenge (AsyncAwait.Task2.CodeReviewChallenge.csproj): 
+Task:
+Please perform code review of the provided ASP.NET Core application. Pay attention to async operations usage issues.
+About application
+Web app contains 3 pages, which could be navigated from the main menu: Home, Privacy, Help. Besides that, each page collects statistics (how many times this page was visited).
+Probably, the navigations counting code is not optimal and causes the pages  loading slowly.
+What you need to do:
+1)  Review application code AsyncAwait.CodeReviewChallenge and paying attention to the wrong async code usage. Provide your ideas how these code issues could be resolved. 
+2) Improve the code according to your proposals. Verify that application works stable. (Good idea here is to make your changes in a separate branch and then compare both implementations).
+This solution also contains a project named ‘CloudServices’. This app emulates multiple calls to the third-party services. As it is a third-party library,  you shouldn’t change this code. All your changes should be made in AsyncAwait.CodeReviewChallenge project.
+Discuss your ideas and results with your mentor. Be ready to describe how async code works in depth.
+
+Score board: 
+
+0-59% – Both required tasks have been completed, and implementation meets all requirements.  
+60-79% – In the second task, a mentee improved the code (didn't make it worse) and can explain why it was necessary.
+80-100% – A mentee understands pros and cons of the provided solutions and there are no major remarks related to clean code principles (SOLID, KISS, DRY, etc.).
+
