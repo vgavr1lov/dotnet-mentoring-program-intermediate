@@ -1,3 +1,5 @@
+Multithreading in .NET
+
 Download and unzip 01.Multithreading.v.1.2.zip archive. Restore packages via “dotnet restore” if needed. Implement the tasks 1-6 using templates from the Multithreading.sln.
 Note: If “dotnet restore” does not work, please make sure the environment variable contains a link to dotnet
 Graphical user interface, text, application
@@ -101,6 +103,7 @@ Score board:
 60-79% – In the second task, a mentee improved the code (didn't make it worse) and can explain why it was necessary.
 80-100% – A mentee understands pros and cons of the provided solutions and there are no major remarks related to clean code principles (SOLID, KISS, DRY, etc.).
 
+topic/message-queues
 
 Tasks 1 (Required):
 Introduction
