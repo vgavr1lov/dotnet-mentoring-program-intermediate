@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<PropertyGroup>
+		<PreBuildEvent>if not exist "$(OutputPath)IncomingDocuments" mkdir $(OutputPath)IncomingDocuments</PreBuildEvent>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="RabbitMQ.Client" Version="6.8.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Data\DataLibrary.csproj" />
+	</ItemGroup>
+
+</Project>
