@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\ProfileSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A2F-212A-4C6B-8408-4C44C49E321D}|ProfileSample\\ProfileSample.csproj|c:\\users\\valentin_gavrilov\\desktop\\github\\.net mentoring program intermediate\\analyzing and profiling tools\\profilesample\\profilesample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A2F-212A-4C6B-8408-4C44C49E321D}|ProfileSample\\ProfileSample.csproj|solutionrelative:profilesample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A2F-212A-4C6B-8408-4C44C49E321D}|ProfileSample\\ProfileSample.csproj|C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\ProfileSample\\profilesample\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FF559A2F-212A-4C6B-8408-4C44C49E321D}|ProfileSample\\ProfileSample.csproj|solutionrelative:profilesample\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A2F-212A-4C6B-8408-4C44C49E321D}|ProfileSample\\ProfileSample.csproj|C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\ProfileSample\\profilesample\\dal\\_myimgcontext.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{FF559A2F-212A-4C6B-8408-4C44C49E321D}|ProfileSample\\ProfileSample.csproj|solutionrelative:profilesample\\dal\\_myimgcontext.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A2F-212A-4C6B-8408-4C44C49E321D}|ProfileSample\\ProfileSample.csproj|C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\ProfileSample\\profilesample\\dal\\myimgcontext.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{FF559A2F-212A-4C6B-8408-4C44C49E321D}|ProfileSample\\ProfileSample.csproj|solutionrelative:profilesample\\dal\\myimgcontext.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A2F-212A-4C6B-8408-4C44C49E321D}|ProfileSample\\ProfileSample.csproj|C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\ProfileSample\\profilesample\\dal\\myimgcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF559A2F-212A-4C6B-8408-4C44C49E321D}|ProfileSample\\ProfileSample.csproj|solutionrelative:profilesample\\dal\\myimgcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF559A2F-212A-4C6B-8408-4C44C49E321D}|ProfileSample\\ProfileSample.csproj|C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\ProfileSample\\profilesample\\dal\\myimgcontext.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FF559A2F-212A-4C6B-8408-4C44C49E321D}|ProfileSample\\ProfileSample.csproj|solutionrelative:profilesample\\dal\\myimgcontext.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\ProfileSample\\ProfileSample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProfileSample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\ProfileSample\\ProfileSample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProfileSample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:55:09.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\ProfileSample\\ProfileSample\\Web.config",
+              "RelativeDocumentMoniker": "ProfileSample\\Web.config",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\ProfileSample\\ProfileSample\\Web.config",
+              "RelativeToolTip": "ProfileSample\\Web.config",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswFEAAAAbAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-27T18:11:09.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_MyImgContext.edmx.sql ",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\ProfileSample\\ProfileSample\\DAL\\_MyImgContext.edmx.sql",
+              "RelativeDocumentMoniker": "ProfileSample\\DAL\\_MyImgContext.edmx.sql",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\ProfileSample\\ProfileSample\\DAL\\_MyImgContext.edmx.sql",
+              "RelativeToolTip": "ProfileSample\\DAL\\_MyImgContext.edmx.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-25T19:32:03.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyImgContext.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\ProfileSample\\ProfileSample\\DAL\\MyImgContext.cs",
+              "RelativeDocumentMoniker": "ProfileSample\\DAL\\MyImgContext.cs",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\ProfileSample\\ProfileSample\\DAL\\MyImgContext.cs",
+              "RelativeToolTip": "ProfileSample\\DAL\\MyImgContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:30:59.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyImgContext.tt",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\ProfileSample\\ProfileSample\\DAL\\MyImgContext.tt",
+              "RelativeDocumentMoniker": "ProfileSample\\DAL\\MyImgContext.tt",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\ProfileSample\\ProfileSample\\DAL\\MyImgContext.tt",
+              "RelativeToolTip": "ProfileSample\\DAL\\MyImgContext.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-25T19:30:56.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyImgContext.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\ProfileSample\\ProfileSample\\DAL\\MyImgContext.edmx",
+              "RelativeDocumentMoniker": "ProfileSample\\DAL\\MyImgContext.edmx",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Downloads\\Profiling\\ProfileSample\\ProfileSample\\ProfileSample\\DAL\\MyImgContext.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Profiling\\ProfileSample\\ProfileSample\\ProfileSample\\DAL\\MyImgContext.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-25T19:30:01.597Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\Module 7 - GameOfLife\\GameOfLife\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFD7BAE-9744-44C4-8259-B3757F24B245}|GameOfLife\\GameOfLife.csproj|c:\\users\\valentin_gavrilov\\desktop\\training\\.net mentoring program intermediate\\analyzing and profiling tools\\module 7 - gameoflife\\gameoflife\\gameoflife\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFD7BAE-9744-44C4-8259-B3757F24B245}|GameOfLife\\GameOfLife.csproj|solutionrelative:gameoflife\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFD7BAE-9744-44C4-8259-B3757F24B245}|GameOfLife\\GameOfLife.csproj|C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\Module 7 - GameOfLife\\GameOfLife\\gameoflife\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFD7BAE-9744-44C4-8259-B3757F24B245}|GameOfLife\\GameOfLife.csproj|solutionrelative:gameoflife\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFD7BAE-9744-44C4-8259-B3757F24B245}|GameOfLife\\GameOfLife.csproj|C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\Module 7 - GameOfLife\\GameOfLife\\gameoflife\\adwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFD7BAE-9744-44C4-8259-B3757F24B245}|GameOfLife\\GameOfLife.csproj|solutionrelative:gameoflife\\adwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\Module 7 - GameOfLife\\GameOfLife\\GameOfLife\\Grid.cs",
+              "RelativeDocumentMoniker": "GameOfLife\\Grid.cs",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\Module 7 - GameOfLife\\GameOfLife\\GameOfLife\\Grid.cs",
+              "RelativeToolTip": "GameOfLife\\Grid.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAKAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:32:35.028Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\Module 7 - GameOfLife\\GameOfLife\\GameOfLife\\Cell.cs",
+              "RelativeDocumentMoniker": "GameOfLife\\Cell.cs",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\Module 7 - GameOfLife\\GameOfLife\\GameOfLife\\Cell.cs",
+              "RelativeToolTip": "GameOfLife\\Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:29:04.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\Module 7 - GameOfLife\\GameOfLife\\GameOfLife\\AdWindow.cs",
+              "RelativeDocumentMoniker": "GameOfLife\\AdWindow.cs",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\Analyzing and profiling tools\\Module 7 - GameOfLife\\GameOfLife\\GameOfLife\\AdWindow.cs",
+              "RelativeToolTip": "GameOfLife\\AdWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:16:25.392Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
