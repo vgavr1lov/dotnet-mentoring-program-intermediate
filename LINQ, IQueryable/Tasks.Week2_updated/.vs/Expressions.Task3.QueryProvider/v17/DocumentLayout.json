@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDFA5E9-8D68-4FD5-B150-178A6571E119}|Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj|c:\\users\\valentin_gavrilov\\desktop\\training\\.net mentoring program intermediate\\linq, iqueryable\\tasks.week2_updated\\expressions.task3.e3squeryprovider\\expressiontoftsrequesttranslator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDFA5E9-8D68-4FD5-B150-178A6571E119}|Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj|solutionrelative:expressions.task3.e3squeryprovider\\expressiontoftsrequesttranslator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDFA5E9-8D68-4FD5-B150-178A6571E119}|Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj|c:\\users\\valentin_gavrilov\\desktop\\training\\.net mentoring program intermediate\\linq, iqueryable\\tasks.week2_updated\\expressions.task3.e3squeryprovider\\services\\e3ssearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDFA5E9-8D68-4FD5-B150-178A6571E119}|Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj|solutionrelative:expressions.task3.e3squeryprovider\\services\\e3ssearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDFA5E9-8D68-4FD5-B150-178A6571E119}|Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj|c:\\users\\valentin_gavrilov\\desktop\\training\\.net mentoring program intermediate\\linq, iqueryable\\tasks.week2_updated\\expressions.task3.e3squeryprovider\\queryprovider\\e3slinqprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDFA5E9-8D68-4FD5-B150-178A6571E119}|Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj|solutionrelative:expressions.task3.e3squeryprovider\\queryprovider\\e3slinqprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDFA5E9-8D68-4FD5-B150-178A6571E119}|Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj|c:\\users\\valentin_gavrilov\\desktop\\training\\.net mentoring program intermediate\\linq, iqueryable\\tasks.week2_updated\\expressions.task3.e3squeryprovider\\queryprovider\\e3sentityset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDFA5E9-8D68-4FD5-B150-178A6571E119}|Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj|solutionrelative:expressions.task3.e3squeryprovider\\queryprovider\\e3sentityset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF141F13-6920-42EA-87CD-C510F5CE1836}|Expressions.Task3.E3SQueryProvider.Test\\Expressions.Task3.E3SQueryProvider.Test.csproj|c:\\users\\valentin_gavrilov\\desktop\\training\\.net mentoring program intermediate\\linq, iqueryable\\tasks.week2_updated\\expressions.task3.e3squeryprovider.test\\ignored\\e3sprovidertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF141F13-6920-42EA-87CD-C510F5CE1836}|Expressions.Task3.E3SQueryProvider.Test\\Expressions.Task3.E3SQueryProvider.Test.csproj|solutionrelative:expressions.task3.e3squeryprovider.test\\ignored\\e3sprovidertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF141F13-6920-42EA-87CD-C510F5CE1836}|Expressions.Task3.E3SQueryProvider.Test\\Expressions.Task3.E3SQueryProvider.Test.csproj|c:\\users\\valentin_gavrilov\\desktop\\training\\.net mentoring program intermediate\\linq, iqueryable\\tasks.week2_updated\\expressions.task3.e3squeryprovider.test\\e3sandoperatorsupporttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF141F13-6920-42EA-87CD-C510F5CE1836}|Expressions.Task3.E3SQueryProvider.Test\\Expressions.Task3.E3SQueryProvider.Test.csproj|solutionrelative:expressions.task3.e3squeryprovider.test\\e3sandoperatorsupporttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDFA5E9-8D68-4FD5-B150-178A6571E119}|Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj|c:\\users\\valentin_gavrilov\\desktop\\training\\.net mentoring program intermediate\\linq, iqueryable\\tasks.week2_updated\\expressions.task3.e3squeryprovider\\ftsrequestgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDFA5E9-8D68-4FD5-B150-178A6571E119}|Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj|solutionrelative:expressions.task3.e3squeryprovider\\ftsrequestgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDFA5E9-8D68-4FD5-B150-178A6571E119}|Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj|c:\\users\\valentin_gavrilov\\desktop\\training\\.net mentoring program intermediate\\linq, iqueryable\\tasks.week2_updated\\expressions.task3.e3squeryprovider\\models\\request\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDFA5E9-8D68-4FD5-B150-178A6571E119}|Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj|solutionrelative:expressions.task3.e3squeryprovider\\models\\request\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF141F13-6920-42EA-87CD-C510F5CE1836}|Expressions.Task3.E3SQueryProvider.Test\\Expressions.Task3.E3SQueryProvider.Test.csproj|c:\\users\\valentin_gavrilov\\desktop\\training\\.net mentoring program intermediate\\linq, iqueryable\\tasks.week2_updated\\expressions.task3.e3squeryprovider.test\\ftsrequesttranslatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF141F13-6920-42EA-87CD-C510F5CE1836}|Expressions.Task3.E3SQueryProvider.Test\\Expressions.Task3.E3SQueryProvider.Test.csproj|solutionrelative:expressions.task3.e3squeryprovider.test\\ftsrequesttranslatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDFA5E9-8D68-4FD5-B150-178A6571E119}|Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj|c:\\users\\valentin_gavrilov\\desktop\\training\\.net mentoring program intermediate\\linq, iqueryable\\tasks.week2_updated\\expressions.task3.e3squeryprovider\\services\\ie3ssearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDFA5E9-8D68-4FD5-B150-178A6571E119}|Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj|solutionrelative:expressions.task3.e3squeryprovider\\services\\ie3ssearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF141F13-6920-42EA-87CD-C510F5CE1836}|Expressions.Task3.E3SQueryProvider.Test\\Expressions.Task3.E3SQueryProvider.Test.csproj|c:\\users\\valentin_gavrilov\\desktop\\training\\.net mentoring program intermediate\\linq, iqueryable\\tasks.week2_updated\\expressions.task3.e3squeryprovider.test\\expressions.task3.e3squeryprovider.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF141F13-6920-42EA-87CD-C510F5CE1836}|Expressions.Task3.E3SQueryProvider.Test\\Expressions.Task3.E3SQueryProvider.Test.csproj|solutionrelative:expressions.task3.e3squeryprovider.test\\expressions.task3.e3squeryprovider.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF141F13-6920-42EA-87CD-C510F5CE1836}|Expressions.Task3.E3SQueryProvider.Test\\Expressions.Task3.E3SQueryProvider.Test.csproj|c:\\users\\valentin_gavrilov\\desktop\\training\\.net mentoring program intermediate\\linq, iqueryable\\tasks.week2_updated\\expressions.task3.e3squeryprovider.test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EF141F13-6920-42EA-87CD-C510F5CE1836}|Expressions.Task3.E3SQueryProvider.Test\\Expressions.Task3.E3SQueryProvider.Test.csproj|solutionrelative:expressions.task3.e3squeryprovider.test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDFA5E9-8D68-4FD5-B150-178A6571E119}|Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj|c:\\users\\valentin_gavrilov\\desktop\\training\\.net mentoring program intermediate\\linq, iqueryable\\tasks.week2_updated\\expressions.task3.e3squeryprovider\\expressions.task3.e3squeryprovider.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDDFA5E9-8D68-4FD5-B150-178A6571E119}|Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj|solutionrelative:expressions.task3.e3squeryprovider\\expressions.task3.e3squeryprovider.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "E3SEntitySet.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider\\QueryProvider\\E3SEntitySet.cs",
+              "RelativeDocumentMoniker": "Expressions.Task3.E3SQueryProvider\\QueryProvider\\E3SEntitySet.cs",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider\\QueryProvider\\E3SEntitySet.cs",
+              "RelativeToolTip": "Expressions.Task3.E3SQueryProvider\\QueryProvider\\E3SEntitySet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:32:16.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "E3SProviderTests.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider.Test\\Ignored\\E3SProviderTests.cs",
+              "RelativeDocumentMoniker": "Expressions.Task3.E3SQueryProvider.Test\\Ignored\\E3SProviderTests.cs",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider.Test\\Ignored\\E3SProviderTests.cs",
+              "RelativeToolTip": "Expressions.Task3.E3SQueryProvider.Test\\Ignored\\E3SProviderTests.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwE0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:17:50.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "E3SLinqProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider\\QueryProvider\\E3SLinqProvider.cs",
+              "RelativeDocumentMoniker": "Expressions.Task3.E3SQueryProvider\\QueryProvider\\E3SLinqProvider.cs",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider\\QueryProvider\\E3SLinqProvider.cs",
+              "RelativeToolTip": "Expressions.Task3.E3SQueryProvider\\QueryProvider\\E3SLinqProvider.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:54:13.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "E3SSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider\\Services\\E3SSearchService.cs",
+              "RelativeDocumentMoniker": "Expressions.Task3.E3SQueryProvider\\Services\\E3SSearchService.cs",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider\\Services\\E3SSearchService.cs",
+              "RelativeToolTip": "Expressions.Task3.E3SQueryProvider\\Services\\E3SSearchService.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAApwGEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:46:30.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpressionToFTSRequestTranslator.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider\\ExpressionToFTSRequestTranslator.cs",
+              "RelativeDocumentMoniker": "Expressions.Task3.E3SQueryProvider\\ExpressionToFTSRequestTranslator.cs",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider\\ExpressionToFTSRequestTranslator.cs",
+              "RelativeToolTip": "Expressions.Task3.E3SQueryProvider\\ExpressionToFTSRequestTranslator.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:13:29.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "E3SAndOperatorSupportTests.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider.Test\\E3SAndOperatorSupportTests.cs",
+              "RelativeDocumentMoniker": "Expressions.Task3.E3SQueryProvider.Test\\E3SAndOperatorSupportTests.cs",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider.Test\\E3SAndOperatorSupportTests.cs",
+              "RelativeToolTip": "Expressions.Task3.E3SQueryProvider.Test\\E3SAndOperatorSupportTests.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:16:29.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FTSRequestGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider\\FTSRequestGenerator.cs",
+              "RelativeDocumentMoniker": "Expressions.Task3.E3SQueryProvider\\FTSRequestGenerator.cs",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider\\FTSRequestGenerator.cs",
+              "RelativeToolTip": "Expressions.Task3.E3SQueryProvider\\FTSRequestGenerator.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAMwD4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:59:01.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Statement.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider\\Models\\Request\\Statement.cs",
+              "RelativeDocumentMoniker": "Expressions.Task3.E3SQueryProvider\\Models\\Request\\Statement.cs",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider\\Models\\Request\\Statement.cs",
+              "RelativeToolTip": "Expressions.Task3.E3SQueryProvider\\Models\\Request\\Statement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:46:58.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FTSRequestTranslatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider.Test\\FTSRequestTranslatorTests.cs",
+              "RelativeDocumentMoniker": "Expressions.Task3.E3SQueryProvider.Test\\FTSRequestTranslatorTests.cs",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider.Test\\FTSRequestTranslatorTests.cs",
+              "RelativeToolTip": "Expressions.Task3.E3SQueryProvider.Test\\FTSRequestTranslatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:16:55.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IE3SSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider\\Services\\IE3SSearchService.cs",
+              "RelativeDocumentMoniker": "Expressions.Task3.E3SQueryProvider\\Services\\IE3SSearchService.cs",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider\\Services\\IE3SSearchService.cs",
+              "RelativeToolTip": "Expressions.Task3.E3SQueryProvider\\Services\\IE3SSearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:18:13.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider.Test\\App.config",
+              "RelativeDocumentMoniker": "Expressions.Task3.E3SQueryProvider.Test\\App.config",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider.Test\\App.config",
+              "RelativeToolTip": "Expressions.Task3.E3SQueryProvider.Test\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-04T08:18:04.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Expressions.Task3.E3SQueryProvider.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider.Test\\Expressions.Task3.E3SQueryProvider.Test.csproj",
+              "RelativeDocumentMoniker": "Expressions.Task3.E3SQueryProvider.Test\\Expressions.Task3.E3SQueryProvider.Test.csproj",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider.Test\\Expressions.Task3.E3SQueryProvider.Test.csproj",
+              "RelativeToolTip": "Expressions.Task3.E3SQueryProvider.Test\\Expressions.Task3.E3SQueryProvider.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T16:10:23.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Expressions.Task3.E3SQueryProvider.csproj",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj",
+              "RelativeDocumentMoniker": "Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Training\\.NET Mentoring Program Intermediate\\LINQ, IQueryable\\Tasks.Week2_updated\\Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj",
+              "RelativeToolTip": "Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T16:14:22.805Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
