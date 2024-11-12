@@ -298,3 +298,5 @@ Score board:
 0-59% - Home task is partially implemented.
 60-79% - Home task is implemented; all tests are green.
 80-100% - Complex task is implemented. 
+80-100% - Complex task is implemented. 
+
