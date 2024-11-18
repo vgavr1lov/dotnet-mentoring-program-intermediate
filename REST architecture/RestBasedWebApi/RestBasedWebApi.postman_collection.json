@@ -1,0 +1,388 @@
+{
+	"info": {
+		"_postman_id": "9bbd0f28-0e40-4f34-82b3-4a9d1d1dd5ba",
+		"name": "RestBasedWebApi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37940195"
+	},
+	"item": [
+		{
+			"name": "https://localhost:7149/api/Products/1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7149/api/Products/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7149",
+					"path": [
+						"api",
+						"Products",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7149/api/Products/",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7149/api/Products/",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7149",
+					"path": [
+						"api",
+						"Products",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7149/api/Products?pageNumber=2&pageSize=20",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7149/api/Products?pageNumber=2&pageSize=20",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7149",
+					"path": [
+						"api",
+						"Products"
+					],
+					"query": [
+						{
+							"key": "pageNumber",
+							"value": "2"
+						},
+						{
+							"key": "pageSize",
+							"value": "20"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7149/api/Products?categoryId=2",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7149/api/Products?categoryId=2",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7149",
+					"path": [
+						"api",
+						"Products"
+					],
+					"query": [
+						{
+							"key": "categoryId",
+							"value": "2"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7149/api/Products",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"productName\": \"Test Product 1\",\r\n    \"supplierId\": 3,\r\n    \"categoryId\": 5,\r\n    \"quantityPerUnit\": \"20 boxes x 40 bags\",\r\n    \"unitPrice\": 18.0000,\r\n    \"unitsInStock\": 40,\r\n    \"unitsOnOrder\": null,\r\n    \"reorderLevel\": 10,\r\n    \"discontinued\": false\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7149/api/Products",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7149",
+					"path": [
+						"api",
+						"Products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7149/api/Products/102",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"productId\": 102,\r\n    \"productName\": \"Test Product 1\",\r\n    \"supplierId\": 3,\r\n    \"categoryId\": 5,\r\n    \"quantityPerUnit\": \"20 boxes x 40 bags\",\r\n    \"unitPrice\": 18.0000,\r\n    \"unitsInStock\": 40,\r\n    \"unitsOnOrder\": 5,\r\n    \"reorderLevel\": 10,\r\n    \"discontinued\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7149/api/Products/102",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7149",
+					"path": [
+						"api",
+						"Products",
+						"102"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7149/api/Products/102",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7149/api/Products/102",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7149",
+					"path": [
+						"api",
+						"Products",
+						"102"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7149/api/Categories",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7149/api/Categories",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7149",
+					"path": [
+						"api",
+						"Categories"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7149/api/Categories/1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7149/api/Categories/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7149",
+					"path": [
+						"api",
+						"Categories",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7149/api/Categories/",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"categoryName\": \"Test category 11\",\r\n    \"description\": \"Soft drinks, coffees, teas, beers, and ales\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7149/api/Categories/",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7149",
+					"path": [
+						"api",
+						"Categories",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7149/api/Categories/11",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"categoryId\": 11,\r\n    \"categoryName\": \"Test category 1\",\r\n    \"description\": \"Test drinks, Test coffees, Test teas, Test beers, and Test ales\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7149/api/Categories/11",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7149",
+					"path": [
+						"api",
+						"Categories",
+						"11"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7149/api/Categories/11",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7149/api/Categories/11",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7149",
+					"path": [
+						"api",
+						"Categories",
+						"11"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
