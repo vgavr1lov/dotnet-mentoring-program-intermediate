@@ -322,3 +322,152 @@ Score board:
 0-59% - Constrains & Functional requirements are met (pay attention to Clean Code practices).
 60-79% - Non-Functional requirements are met.
 80-100% - Able to lead a discussion of the “Questions to Discuss” topics.
+
+
+GOF: Cutting shape
+
+Home Task (Adapter)
+Adapter. Task: 
+Adopt existing class/interface to another one. You have a class which prints some important info about an object: 
+
+    public class Printer 
+    { 
+        public void Print<T>(IContainer<T> container) 
+        { 
+            foreach (var item in container.Items) 
+            { 
+                Console.WriteLine(item.ToString()); 
+            } 
+        } 
+    } 
+
+Here is IContainer interface: 
+
+        public interface IContainer<T> 
+    { 
+        IEnumerable<T> Items { get; } 
+
+        int Count { get; } 
+    } 
+
+Let's imagine you cannot change Printer code, but you can use only this version of a Printer to print. In your project you have a class which implements only the following interface: 
+
+    public interface IElements<T> 
+    { 
+        IEnumerable<T> GetElements(); 
+    } 
+
+You cannot change this class too, but you must print all the elements of this object. 
+
+Score board: 
+0-59% - 1-2 of 4 tasks have been completed and implementation meets all requirements.  
+60-79% - 3 of 4 tasks have been completed, implementation meets all requirements with one major remark related to the patterns' implementation or clean code principles at most. 
+80-100% - All 4 tasks have been completed, implementation meets all requirements, and there are no major remarks related to the defined patterns' implementation and clean code principles.
+
+Home Task (Composite)
+Composite. Task 1: 
+
+In one company there is a need to build xml generator. Developers build object hierarchy and then this hierarchy is converted to xml.  
+Implement simple xml elements InputText and LabelText 
+
+    public class InputText 
+    { 
+        .... 
+
+        public InputText(string name, string value) 
+        { 
+            ... 
+        } 
+
+        public string ConvertToString() 
+        { 
+            ... 
+        } 
+    } 
+
+    public class LabelText 
+    { 
+        ... 
+
+        public LabelText(string value) 
+        { 
+            ... 
+        } 
+
+        public string ConvertToString() 
+        { 
+            ... 
+        } 
+    } 
+
+InputText should look like this: <inputText name='myInput' value='myInputValue'/> 
+InputText should look like this: <label value='myLabel'/> 
+
+Composite. Task 2: 
+Implement form element, container for other elements.  
+Form element should be able to add internal elements.  
+
+public class Form 
+{ 
+    String name; 
+
+    public Form(String name) 
+    { 
+        this.name = name; 
+    } 
+
+    public void AddComponent(..) 
+    { 
+        ... 
+    } 
+
+    public string ConvertToString() 
+    { 
+        ... 
+    } 
+} 
+
+For example, if we add two elements to a form, string conversion should look like:  
+
+<form name='myForm'> 
+ <label value='myLabel'/> 
+ <inputText name='myInput' value='myInputValue'/> 
+</form> 
+
+Score board: 
+0-59% - 1-2 of 4 tasks have been completed and implementation meets all requirements.  
+60-79% - 3 of 4 tasks have been completed, implementation meets all requirements with one major remark related to the patterns' implementation or clean code principles at most. 
+80-100% - All 4 tasks have been completed, implementation meets all requirements, and there are no major remarks related to the defined patterns' implementation and clean code principles.
+
+Façade. Task: 
+To build a system to place an order. There are 3 separate services which can be used to place an order.  
+ProductCatalog - This service contains all available products.  
+    interface ProductCatalog 
+    { 
+        Product GetProductDetails(string productId); 
+    } 
+This service allows you to load product by Id.  
+PaymentSystem - The system provides an interface to make payments.  
+    interface PaymentSystem 
+    { 
+        bool MakePayment(Payment payment); 
+    } 
+InvoiceSystem - The system provides an interface to send an invoice.  
+    interface InvoiceSystem 
+    { 
+        void SendInvoice(Invoice invoice); 
+    } 
+ 
+Implement Façade to place order.  
+Place order algorithm:  
+Load product by product Id. Use ProductCatalog service. 
+Make payment for the product from ProductCatalog service using service PaymentSystem.  
+Make invoice payment using InvoiceSystem.  
+
+Interface for Order Façade:  
+void PlaceOrder(string productId, int quantity, string email) 
+
+Score board: 
+0-59% - 1-2 of 4 tasks have been completed and implementation meets all requirements.  
+60-79% - 3 of 4 tasks have been completed, implementation meets all requirements with one major remark related to the patterns' implementation or clean code principles at most. 
+80-100% - All 4 tasks have been completed, implementation meets all requirements, and there are no major remarks related to the defined patterns' implementation and clean code principles.

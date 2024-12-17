@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Expressions\\Expressions and IQueryable.Tasks.Week1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4E5DC1-ADDB-4781-8930-5949EE76F23C}|ExpressionTrees.Task2.ExpressionMapping.Tests\\ExpressionTrees.Task2.ExpressionMapping.Tests.csproj|c:\\users\\valentin_gavrilov\\desktop\\github\\.net mentoring program intermediate\\expressions\\expressions and iqueryable.tasks.week1\\expressiontrees.task2.expressionmapping.tests\\expressionmappingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4E5DC1-ADDB-4781-8930-5949EE76F23C}|ExpressionTrees.Task2.ExpressionMapping.Tests\\ExpressionTrees.Task2.ExpressionMapping.Tests.csproj|solutionrelative:expressiontrees.task2.expressionmapping.tests\\expressionmappingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73803CE-8CEA-4658-8BE1-A3BB6AEFF770}|ExpressionTrees.Task2.ExpressionMapping\\ExpressionTrees.Task2.ExpressionMapping.csproj|c:\\users\\valentin_gavrilov\\desktop\\github\\.net mentoring program intermediate\\expressions\\expressions and iqueryable.tasks.week1\\expressiontrees.task2.expressionmapping\\mappinggenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73803CE-8CEA-4658-8BE1-A3BB6AEFF770}|ExpressionTrees.Task2.ExpressionMapping\\ExpressionTrees.Task2.ExpressionMapping.csproj|solutionrelative:expressiontrees.task2.expressionmapping\\mappinggenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpressionMappingTests.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Expressions\\Expressions and IQueryable.Tasks.Week1\\ExpressionTrees.Task2.ExpressionMapping.Tests\\ExpressionMappingTests.cs",
+              "RelativeDocumentMoniker": "ExpressionTrees.Task2.ExpressionMapping.Tests\\ExpressionMappingTests.cs",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Expressions\\Expressions and IQueryable.Tasks.Week1\\ExpressionTrees.Task2.ExpressionMapping.Tests\\ExpressionMappingTests.cs",
+              "RelativeToolTip": "ExpressionTrees.Task2.ExpressionMapping.Tests\\ExpressionMappingTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:25:21.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:251099968:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159369751:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2118507790:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:41913223:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Expressions\\Expressions and IQueryable.Tasks.Week1\\ExpressionTrees.Task2.ExpressionMapping\\MappingGenerator.cs",
+              "RelativeDocumentMoniker": "ExpressionTrees.Task2.ExpressionMapping\\MappingGenerator.cs",
+              "ToolTip": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Intermediate\\Expressions\\Expressions and IQueryable.Tasks.Week1\\ExpressionTrees.Task2.ExpressionMapping\\MappingGenerator.cs",
+              "RelativeToolTip": "ExpressionTrees.Task2.ExpressionMapping\\MappingGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:00:22.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
